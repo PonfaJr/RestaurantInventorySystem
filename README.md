@@ -10,9 +10,9 @@ Run Server **php -S Localhost:8080**
 
 Login For Admin
 
-Username: Admin
+Username: admin
 
-Password: Admin123
+Password: Password@123
 
 
 #About Project

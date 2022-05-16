@@ -111,10 +111,9 @@ CREATE TABLE `users` (
   `email` varchar(255) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
-
-
 INSERT INTO `users` (`user_id`, `username`, `password`, `email`) VALUES
 (1, 'admin', 'd00f5d5217896fb7fd601412cb890830', ''),
+(2, 'staff', '5f4dcc3b5aa765d61d8327deb882cf99', 'staff@stockmg.com');
 
 --
 -- Indexes for table `brands`
